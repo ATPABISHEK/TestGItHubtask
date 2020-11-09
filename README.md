@@ -1,14 +1,15 @@
+# NEWS ARTICLE API
 This project contains HTTP JSON API
-Functionalities of this API:
-Create an article:
+# Functionalities of this API:
+## Create an article:
         Should be a POST request
         Use JSON request body
         URL should be ‘/articles’
-Get an article using id:
+## Get an article using id:
         Should be a GET request
         Id should be in the url parameter
       	URL should be ‘/articles/<id here>’
-List all articles:
+## List all articles:
        	Should be a GET request
         URL should be ‘/articles’
         Search for an Article (search in title, subtitle, content)
