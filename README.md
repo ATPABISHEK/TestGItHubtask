@@ -2,9 +2,9 @@
 This project contains HTTP JSON API
 # Functionalities of this API:
 ## Create an article:
- Should be a POST request
- Use JSON request body
- URL to update articles ‘/articles’
+ Should be a POST request.
+ Use JSON request body.
+ URL to update articles ‘/articles’.
 ## Get an article using id:
  Should be a GET request
  Id should be in the url parameter
